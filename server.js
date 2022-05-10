@@ -5,7 +5,7 @@ module.exports = () => {
     for (let i = 0; i < 100; i++) {
         data.products.push({
             id: i + 1,
-            price: 49,
+            price: 200,
             title: `Camisa ${i + 1}`,
         })
     }
